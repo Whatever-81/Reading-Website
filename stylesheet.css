@@ -1,0 +1,71 @@
+#happydance {
+  height: 250px;
+  width: 350px;
+  border-radius:50px;
+
+}
+
+#section1 {
+    font-size: 20;
+        font-family: monospace;
+   
+}
+#right {
+    
+    font-family: cursive;
+    text-align: center;
+    font-size: 35;
+outline: #15bed1 solid 50px;
+    color: black;
+    
+    
+    
+}
+#menu {
+overflow: hidden;
+  background-color: palegoldenrod;
+    font-family: cursive;
+    HEIGHT:98Px;
+    font-size: 50px;
+}
+li {
+ float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+    
+
+  
+  
+    
+}
+#sap {
+    text-align: center;
+    font-family:fantasy;
+}
+
+#mappy {
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+#heading {
+    font-family: monospace;
+    font-size: 100px;
+background: #FEAC5E;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+text-align: center;
+    color: white;
+    
+    height: 800px;
+}
+#bappy {
+    font-family: cursive;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
